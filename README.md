@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about learning new technologies and collaborating on exciting projects.
 
-## GitHub Stats:
+## GitHub Stats
 [![Lowl16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lowl16&theme=aura)](https://github.com/Lowl16)
 
-## 🛠 Skills
+## 🛠 Languages and Tools
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
