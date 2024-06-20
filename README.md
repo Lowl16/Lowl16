@@ -42,14 +42,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies and
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/sandhi-karunia-sugihartana/">
-  <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Sandhi Karunia Sugihartana | LinkedIn" width="35px"/>
-</a>
-<a href="https://www.instagram.com/sandhi372/">
-  <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="Sandhi Karunia Sugihartana | Instagram" width="35px"/>
-</a>
-<a href="mailto:sandhi372@gmail.com">
-  <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Sandhi Karunia Sugihartana | Gmail" width="35px"/>
-</a>
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhi-karunia-sugihartana/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandhi372/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandhi372@gmail.com)
 
