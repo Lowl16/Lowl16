@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about learning new technologies and collaborating on exciting projects.
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lowl16&layout=compact&theme=aura)](https://github.com/Lowl16)
+[![Lowl16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lowl16&theme=aura)](https://github.com/Lowl16)
 
 ## 🛠 Languages and Tools
 
